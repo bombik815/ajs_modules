@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/bombik815/ajs_modules.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/bombik815/ajs_modules.git/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/bombik815/ajs_modules.git",
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.14.8",
